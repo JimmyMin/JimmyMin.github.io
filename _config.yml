@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 滑鸡
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
+author: JimmyMin
+language: zh-CN
 timezone:
 
 # URL
@@ -73,11 +73,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: hexo-theme-cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/JimmyMin/jimmymin.github.io.git
+  repository: git@github.com:JimmyMin/JimmyMin.github.io.git
   branch: master
